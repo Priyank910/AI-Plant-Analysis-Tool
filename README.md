@@ -202,7 +202,7 @@ Add screenshots here:
 
 ## 👨‍💻 Author
 
-Priyank Patel
+Priyank Chavda
 
 GitHub: https://github.com/Priyank910
 
